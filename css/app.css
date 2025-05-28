@@ -72,12 +72,13 @@ p {
     word-wrap: break-word;
     max-height: 80px;
     /* permite cortar palabras largas */
-    white-space: normal;
+    white-space: pre-wrap;
     /* permite los saltos de línea automáticos */
     box-shadow: rgb(54, 40, 180) 5px 5px 5px ;
     border-radius: 10px;
     padding: .5rem;
     overflow-y: auto;  
+
 }
 
 
