@@ -51,4 +51,3 @@ botonAgregar.addEventListener("click", (e) => {
         conte.remove();
     })
 })
-
